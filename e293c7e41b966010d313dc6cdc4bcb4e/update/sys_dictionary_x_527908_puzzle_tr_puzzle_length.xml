@@ -6,10 +6,10 @@
         <attributes/>
         <audit>false</audit>
         <calculation/>
-        <choice>0</choice>
+        <choice/>
         <choice_field/>
         <choice_table/>
-        <column_label>Length</column_label>
+        <column_label>Length (cm)</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -49,14 +49,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-02-10 03:20:54</sys_created_on>
         <sys_id>ad45c3681b966010d313dc6cdc4bcbaf</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>Length</sys_name>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Length (cm)</sys_name>
         <sys_package display_value="Puzzle Tracker" source="x_527908_puzzle_tr">e293c7e41b966010d313dc6cdc4bcb4e</sys_package>
         <sys_policy/>
         <sys_scope display_value="Puzzle Tracker">e293c7e41b966010d313dc6cdc4bcb4e</sys_scope>
         <sys_update_name>sys_dictionary_x_527908_puzzle_tr_puzzle_length</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-02-10 03:20:54</sys_updated_on>
+        <sys_updated_on>2021-02-10 04:47:09</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

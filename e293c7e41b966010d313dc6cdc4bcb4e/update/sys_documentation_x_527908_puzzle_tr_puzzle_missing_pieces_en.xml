@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="length" label="Length (cm)" language="en" table="x_527908_puzzle_tr_puzzle">
+    <sys_documentation element="missing_pieces" label="Missing pieces" language="en" table="x_527908_puzzle_tr_puzzle">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>length</element>
+            <element>missing_pieces</element>
             <help/>
             <hint/>
-            <label>Length (cm)</label>
+            <label>Missing pieces</label>
             <language>en</language>
             <name>x_527908_puzzle_tr_puzzle</name>
-            <plural>Length (cm)</plural>
+            <plural>Missing pieces</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2021-02-10 03:20:54</sys_created_on>
-            <sys_id>e545c3681b966010d313dc6cdc4bcbb1</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_name>Length (cm)</sys_name>
+            <sys_created_on>2021-02-10 04:44:00</sys_created_on>
+            <sys_id>3e48d7281bd66010d313dc6cdc4bcbbe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Missing pieces</sys_name>
             <sys_package display_value="Puzzle Tracker" source="x_527908_puzzle_tr">e293c7e41b966010d313dc6cdc4bcb4e</sys_package>
             <sys_policy/>
             <sys_scope display_value="Puzzle Tracker">e293c7e41b966010d313dc6cdc4bcb4e</sys_scope>
-            <sys_update_name>sys_documentation_x_527908_puzzle_tr_puzzle_length_en</sys_update_name>
+            <sys_update_name>sys_documentation_x_527908_puzzle_tr_puzzle_missing_pieces_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-02-10 04:47:09</sys_updated_on>
+            <sys_updated_on>2021-02-10 04:44:00</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>
